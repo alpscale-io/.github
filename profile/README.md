@@ -4,7 +4,7 @@
 
 **Building scalable software solutions for modern businesses**
 
-[![Website](https://img.shields.io/badge/Website-alpscale.com-0066cc?style=flat-square)](https://alpscale.com)
+[![Website](https://img.shields.io/badge/Website-alpscale.io-0066cc?style=flat-square)](https://alpscale.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ALPSCALE-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/alpscale)
 
 </div>
@@ -24,10 +24,10 @@ ALPSCALE GmbH is a software company specializing in building and operating moder
 
 ## 🤝 Get in Touch
 
-| Contact Type             | How to Reach Us                            |
-| ------------------------ | ------------------------------------------ |
-| **Customers & Partners** | Visit [alpscale.com](https://alpscale.com) |
-| **General Inquiries**    | [Contact Us](https://alpscale.com/contact) |
+| Contact Type             | How to Reach Us                           |
+| ------------------------ | ----------------------------------------- |
+| **Customers & Partners** | Visit [alpscale.io](https://alpscale.io)  |
+| **General Inquiries**    | [Contact Us](https://alpscale.io/contact) |
 
 ---
 
